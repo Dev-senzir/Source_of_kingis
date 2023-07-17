@@ -1,0 +1,40 @@
+{
+    "name": "🅚🅘🅝🅖🅘🅢⚚",
+    "description": " اكم في تنصيب سورس صيد اليوزرات !الملوك",
+    "logo" : "https://telegra.ph/file/249ad2db4ad6c9124edc9.jpg",
+    "stack": "container",
+    "repository": "https://github.com/Cmmox/Night",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/Cmmox/Night",
+    "env": {
+        "APP_ID": {
+            "description": "ايبي ايدي",
+            "value": "",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "ايبي هاش",
+            "value": "",
+            "required": true
+        },
+        "TERMUX": {
+            "description": "كود تيرمكس",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "يوزر البوت بدون ـ@ـ",
+            "value": "",
+            "required": true
+        }
+    }
+}
